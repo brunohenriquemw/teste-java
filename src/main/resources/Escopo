@@ -1,0 +1,34 @@
+========================
+  Escopo - Teste Java
+========================
+
+> Você deverá escrever neste arquivo uma lista das funcionalidades a serem implementadas na aplicação, e então ordená-la deixando em primeiro lugar a funcionalidade mais importante e em último lugar a menos importante segundo seu entendimento. Para saber as funcionalidades que deverá listar, navegue pelos arquivos da aplicação e veja os comentários deixados neles.
+
+** COLOQUE A LISTA AQUI **
+
+
+
+** Das funcionalidades listadas acima, você deve implementar na aplicação: **
+
+> Validação de cpf solicitada em br.com.teste.basico.util.Validadores.
+
+> A funcionalidade solicitada em br.com.teste.basico.controller.UsuarioController, no método getUsuario.
+
+
+
+
+========================
+      OBSERVAÇÕES
+========================
+
+> Caso você não saiba a implementação, mas saiba a lógica do que ser feito, iremos considerar também, porém, você deve deixar escrito em forma de comentário no código o que deve ser feito.
+Exemplo:
+/*
+* Nessa função devemos criar tal coisa....
+**/
+
+> Você deve cumprir o escopo, mas iremos considerar como bônus caso você consiga implementar mais funcionalidades do que as solicitadas.
+
+> Você pode usar a internet para fazer buscas sobre os códigos e tirar dúvidas sobre implementações.
+
+> Você pode me procurar (Matheus) a qualquer momento caso tenha alguma dúvida.
