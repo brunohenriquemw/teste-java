@@ -1,14 +1,11 @@
 package br.com.teste.basico.service;
 
+import br.com.teste.basico.entity.Produto;
+import java.util.List;
 
-import org.springframework.stereotype.Service;
+public interface ProdutoService {
 
-
-@Service
-public class ProdutoService {
-
-    /* PRIORIDADE: NECESSÁRIA
-    * Para a funcionalidade de inclusão dos produtos, caso o tipo seja "ELETRÔNICO" e
-    * o valor seja inferior a R$ 100,00, não devemos gravar no banco de dados.*/
+    void inserirProduto(Produto produto);
+    List<Produto> listarProdutos();
 
 }
